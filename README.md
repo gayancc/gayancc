@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gayancc@gmail.com**
 
-- 📄 Know about my experiences [gayan.dev](gayan.dev)
+- 📄 Know about my experiences [gayan.dev](http://gayan.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
